@@ -3,7 +3,7 @@
 [![image](https://img.shields.io/badge/code%20style-black-000000.svg)](https://pypi.org/project/bmg-sms-gateway)
 -   This package can be used to integrate python programs or scripts
     with the BMG SMS gateway provided  [eSolutions Zimbabwe](http://www.esolutions.co.zw/)
-
+    
 
 
 Installation
@@ -42,7 +42,9 @@ body = {
 }
 print(send_single_message(username,password,body))
 ```
-For more information regarding usage of this package visit the package [homepage](https://github.com/RONALD55/BMG-SMS-GATEWAY) :
+
+Description of fields
+![Fields Description](bmg_sms_gateway/description.png  "Sample1")
 
 License
 =======

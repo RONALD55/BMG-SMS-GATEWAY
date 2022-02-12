@@ -11,9 +11,10 @@ classifiers = [
 
 setup(
     name='bmg_sms_gateway',
-    version='0.0.1',
+    version='0.0.5',
     description='An package to assist with bmg sms gateway integrations in python',
     long_description=open('README.rst').read() + '\n\n' + open('CHANGELOG.txt').read(),
+    long_description_content_type="text/markdown",
     url='https://github.com/RONALD55/BMG-SMS-GATEWAY',
     author='Ronald Nyasha Kanyepi',
     author_email='kanyepironald@gmail.com',
