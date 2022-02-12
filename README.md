@@ -11,7 +11,7 @@ Installation
 
 To can install the bmg_sms_gateway package open shell or terminal and run:
 
-    pip install bmg_sms_gateway
+    pip install bmg-sms-gateway
 
 Usage
 =====

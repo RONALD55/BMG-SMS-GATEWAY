@@ -11,7 +11,7 @@ classifiers = [
 
 setup(
     name='bmg_sms_gateway',
-    version='0.0.5',
+    version='0.0.8',
     description='An package to assist with bmg sms gateway integrations in python',
     long_description=open('README.rst').read() + '\n\n' + open('CHANGELOG.txt').read(),
     long_description_content_type="text/markdown",
@@ -22,7 +22,7 @@ setup(
     classifiers=classifiers,
     keywords=['zimbabwe', 'sms in Zimbabwe','bulk messages zimbabwe','sms gateway for Zim numbers'],
     packages=find_packages(),
-    install_requires=['re','json','requests'],
+    install_requires=['requests'],
 
 
 )
