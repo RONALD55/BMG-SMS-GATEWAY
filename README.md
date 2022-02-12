@@ -40,10 +40,12 @@ body = {
     "messageValidity": "Message Validity",
     "sendDateTime": "Send Datetime"
 }
-print(send_single_message(username,password,body))
+print(send_single_sms(username,password,body))
 ```
 
 Description of fields
+=======
+
 ![Fields Description](bmg_sms_gateway/description.png  "Sample1")
 
 License

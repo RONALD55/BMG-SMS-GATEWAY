@@ -40,7 +40,7 @@ body = {
     "messageValidity": "Message Validity",
     "sendDateTime": "Send Datetime"
 }
-print(send_single_message(username,password,body))
+print(send_single_sms(username,password,body))
 ```
 For more information regarding usage of this package visit the package [homepage](https://github.com/RONALD55/BMG-SMS-GATEWAY) :
 
